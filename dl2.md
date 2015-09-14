@@ -341,3 +341,39 @@
 * [《an introduction to visualizing DATA》](http://piksels.com/wp-content/uploads/2009/01/visualizingdata.pdf)
 
 介绍:数据可视化介绍(23页袖珍小册子)
+
+* [《That’s So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets ∗》](https://www.cs.cmu.edu/~yww/papers/emnlp2015petpeeves.pdf)
+
+介绍:这篇论文荣获EMNLP2015的最佳数据/资源奖优秀奖,[标注的推特数据集](https://www.cs.cmu.edu/~yww/data/petpeeves.zip)
+
+* [《26 Things I Learned in the Deep Learning Summer School》](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
+
+介绍:作者在深度学习的思考.
+
+* [《Data-Visualization Tools & Books》](http://keshif.me/demo/VisTools)
+
+介绍:数据可视化常用工具软件资源汇总
+
+* [《Machine Learning and Probabilistic Graphical Models Course》](http://www.cedar.buffalo.edu/~srihari/CSE574/)
+
+介绍:Buffalo大学教授Sargur Srihari的“机器学习和概率图模型”的视频课程
+
+* [《Understanding Machine Learning: From Theory to Algorithms》](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
+
+介绍:耶路撒冷希伯来大学教授Shai Shalev-Shwartz和滑铁卢大学教授Shai Ben-David的新书Understanding Machine Learning: From Theory to Algorithms,此书写的比较偏理论，适合对机器学习理论有兴趣的同学选读
+
+* [《Machine Learning Checklist》](http://machinelearningmastery.com/machine-learning-checklist/)
+
+介绍:机器学习学习清单
+
+* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
+
+介绍:Michael Nielsen的免费在线电子书"Neural Networks and Deep Learning",深入浅出，但内容涵盖更广：从经典的NN到CNN，从BP到梯度消失问题都有所覆盖，还有示范代码
+
+* [《NLP界有哪些神级人物？》](http://www.zhihu.com/question/32318281)
+
+介绍:知乎上面的一篇关于NLP界有哪些神级人物？提问。首推Michael Collins 
+
+* [《机器学习温和指南》](http://www.csdn.net/article/2015-09-08/2825647)
+
+介绍:机器学习与NLP专家、MonkeyLearn联合创始人&CEO Raúl Garreta面向初学者大体概括使用机器学习过程中的重要概念，应用程序和挑战，旨在让读者能够继续探寻机器学习知识。
